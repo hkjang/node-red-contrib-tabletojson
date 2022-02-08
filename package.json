@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-tabletojson",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node-RED node for tabletojson",
   "main": "node.js",
   "scripts": {
@@ -12,8 +12,12 @@
     }
   },
   "keywords": [
-    "node-red-contrib-contribgen", 
-    "node-red", 
+    "node-red-contrib-contribgen",
+    "node-red",
+    "table2json",
+    "table-to-json",
+    "table",
+    "json",
     "tabletojson"
   ],
   "dependencies": {
